@@ -1,1 +1,1 @@
-# minecraft
+Download the mcworld file in this repository and import it. The world will contain 3 mazes that you can use to test your Agent's navigation code.
